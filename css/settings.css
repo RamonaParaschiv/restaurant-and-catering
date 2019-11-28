@@ -4,7 +4,7 @@
 }
 
 
-/* NOTA: culori regiuni */
+
 .c1b,
 .c3b {
     background-color: #323232;
@@ -18,7 +18,7 @@
     color: #FFF;
 }
 
-/* NOTA: dimesiuni */
+
 header, nav, main, footer {
     width: 1200px;
     margin: auto;
@@ -29,7 +29,7 @@ main {
 }
 
 
-/* NOTA: Alinieri elemente */
+
 .left {
     text-align: left;
 }
@@ -44,7 +44,7 @@ main {
 }
 
 
-/* NOTA: Setari meniu principal */
+
 nav {
     background-color: #AE9A64;
     text-align: center;
@@ -99,14 +99,14 @@ footer {
     font-size: 15px;
 }
 
-/* NOTA: setari pentru pagina principala*/
+/*setari pentru pagina principala*/
 .room {
     width: 100%;
     height: 300px;
     background:  url("../img/room.jpg") no-repeat;
 }
 
-/* NOTA: celulele cu text din pagina principala */
+/*celulele cu text din pagina principala */
 .cell h1 {
     text-transform: uppercase;
     font: 500 italic 12px arial;
@@ -130,7 +130,7 @@ footer {
 
 
 
-/* NOTA: setari pentru pagina meniu.html */
+/*setari pentru pagina meniu.html */
 .meniu .categorie {
     float:left;
     width: 600px;
@@ -227,7 +227,7 @@ footer {
 }
 
 
-/* NOTA: Setari pentru pagina comenzi.html */
+/*Setari pentru pagina comenzi.html */
 .comenzi {
     height: 1000px;
 }
@@ -329,7 +329,7 @@ footer {
     cursor: pointer;
 }
 
-/* NOTA: Setari pentru pagina contact */
+/*Setari pentru pagina contact */
 .contact {
     background-color: #555;
     padding-top:  100px;
